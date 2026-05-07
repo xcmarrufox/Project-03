@@ -1,17 +1,37 @@
 h1 {
+    font-family: Arial, sans-serif;
+    font-size: 50px;
     color:#296dd3
+
 }
+
 h2 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
     color:#46c1f5
 }
+
 p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
     color:#78a9df
 
 }
+
 ul {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
     color:#78a9df
     
 }
+
 body {
     background-color:#051b38
+}
+
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
 }

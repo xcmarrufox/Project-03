@@ -1,7 +1,7 @@
 # Final Project Scope Statement
 ## Project Purpose
 Why are we doing this project? 
-* The purpose of this project is to be a culmination of all we have learned regarding using Markdown, HTML, CSS, Github, and project management skills. It will also be a demonstration of our understanding and translation into successful website building.
+* The purpose of this project is to be a culmination of all we have learned regarding using Markdown, HTML, CSS, Github, and project management skills. It will also be a demonstration of our understanding and translation into successful website building. Being a homepage for my fictional small business, Cass's Computers, it acts as an exercise to apply our newly learned coding skills to a realistic format.
 ## Description
 How would you describe this project and what will the site contain?
 * This project involves creating a website of a topic of our choosing, with HTML and CSS using our proposed project outline. It will also have a repository containing 3 Markdown files outlining our various final project process steps. I will make my website about my fictional small business, Cass's Computers, as a way to showcase my computer hobby to those interested in my work.
@@ -14,6 +14,8 @@ What specific outcomes must we achieve to be successful?
     * an index.html homepage for our website
     * a second website page linked from the homepage named about.html  
     * a style.css stylesheet that gives color and personality to my HTML website
+    * a user friendly and easily interactable site, with chosen colors to allow for comfortable reading
+    * digestible information included to provide adequate access to what Cass's Computers is about and has to offer 
 ## Exclusions
 What is out of the project's scope and should NOT be included?
 * Interactive elements using languages like JavaScript

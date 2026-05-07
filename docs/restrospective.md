@@ -1,0 +1,6 @@
+## What I Did Well:
+My time management went better than expected, as I finished a large majority of my project with days to spare, and zero procrastination. I also believe that I did well with creating the website itself. I tried to put myself in the headspace of if  in real life I actually owned a small computer shop, then making a website for it. That line of thinking helped me have fun and get creative with the coding process, and since computers are one of my hobbies, helped me get into the element.
+## What I Did Wrong:
+My scope statement could have been more detailed and tailored to my site (Cass's Computers) rather than a more broad interpretation. Specifically the purpose and desired results sections (according to peer and self review) needed a bit more detail to highlight the required finished project.
+## What I'd Do Differently:
+In the future if I end up requiring more scope statements, I would try and include more detail so there is less doubt as to what my final product should look like. Specifically for the portions where those unfamiliar with backend development would read my scope statement, my wording and descriptions could be clearer to adjust for layman's explanations and less technical jargon.
